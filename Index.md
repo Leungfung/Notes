@@ -5,3 +5,4 @@
 * [Virtualenv 使用](./Doc/virtualenv_setting.md)
 * [SSH使用笔记](./Doc/ssh_notes.md)
 * [Mac 下软件包管理工具](./Doc/brew.md)
+* [信号完整性设计要点](./Doc/signal_integrity_point_design.md)
