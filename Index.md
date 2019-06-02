@@ -7,3 +7,4 @@
 * [Mac 下软件包管理工具](./Doc/brew.md)
 * [信号完整性设计要点](./Doc/signal_integrity_point_design.md)
 * [K3 ssh 登陆方法](./Doc/K3_ssh_login.md)
+* [ubuntu 使用smbclient访问SMB](./Doc/ubuntu_smbclient_install.md)
