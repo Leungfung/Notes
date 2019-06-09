@@ -9,3 +9,5 @@
 * [K3 ssh 登陆方法](./Doc/K3_ssh_login.md)
 * [ubuntu 使用smbclient访问SMB](./Doc/ubuntu_smbclient_install.md)
 * [ubuntu18.04安装vivado2019.1](./Doc/ubuntu_install_vivado2019_1.md)
+* [运放电路设计要点](./Doc/key_point_of_operation_amplifer_design.md)
+
